@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Macroful Support</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 720px; margin: 60px auto; padding: 0 20px; line-height: 1.6;">
+  <h1>Macroful Support</h1>
+
+  <p>Need help with Macroful? We're happy to help.</p>
+
+  <p>
+    Contact us at:
+    <a href="mailto:support@macroful.app">support@macroful.app</a>
+  </p>
+
+  <p>
+    We can help with questions about the app, subscriptions, billing, account access, or technical issues.
+  </p>
+
+  <hr style="margin: 40px 0;">
+
+  <p>
+    <a href="./index.html">Privacy Policy</a>
+    &nbsp;·&nbsp;
+    <a href="./terms.html">Terms of Use</a>
+  </p>
+</body>
+</html>
